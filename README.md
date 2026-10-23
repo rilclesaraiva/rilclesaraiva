@@ -32,7 +32,7 @@ Useful software shouldn't cost you money, attention or personal data. Every proj
 <td width="33%" valign="top">
 
 #### 🚌 [BusBus](https://github.com/rilclesaraiva/BusBus)
-Real-time bus tracking for Belém: live map, nearby stops and the official route for more than 160 bus lines.
+Regional app for Belém, Brazil (in Portuguese). Real-time buses: live map, nearby stops and the official route for more than 160 bus lines.
 
 `JavaScript` · `Leaflet` · `Android + Web`
 
@@ -47,7 +47,7 @@ Local music player for Android with a Material 3 Expressive look, tag editor, ar
 
 `Kotlin` · `Jetpack Compose` · `Media3`
 
-**Status:** 🟡 Public beta
+**Status:** 🟡 Public beta · current focus
 [Download the APK →](https://github.com/rilclesaraiva/BoomListener/releases)
 
 </td>
@@ -58,8 +58,8 @@ A clean, customizable and private Android home screen, bringing together the bes
 
 `Kotlin` · `Jetpack Compose` · `M3 Expressive`
 
-**Status:** 🔵 In progress
-[Follow along →](https://github.com/rilclesaraiva/Lyrale-Launcher)
+**Status:** ⚪ Up next
+[See the plan →](https://github.com/rilclesaraiva/Lyrale-Launcher)
 
 </td>
 </tr>
