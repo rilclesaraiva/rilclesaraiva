@@ -16,7 +16,7 @@ Belém (PA), Brazil 🇧🇷
 
 Useful software shouldn't cost you money, attention or personal data. Every project I make follows the same rules:
 
-| | |
+| Principle | In practice |
 |---|---|
 | 💸 **Actually free** | No ads, no "Pro" tier, no in-app purchases |
 | 🔒 **Privacy first** | No account, no trackers, no telemetry. Your data stays on your device |
