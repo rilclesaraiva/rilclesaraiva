@@ -47,7 +47,7 @@ Local music player for Android with a Material 3 Expressive look, tag editor, ar
 
 `Kotlin` · `Jetpack Compose` · `Media3`
 
-**Status:** 🟡 Public beta · current focus
+**Status:** 🟢 Out now · current focus
 [Download the APK →](https://github.com/rilclesaraiva/BoomListener/releases)
 
 </td>
