@@ -1,89 +1,50 @@
-<div align="center">
+# Rilcle Saraiva
 
-# Hi, I'm Rilcle 👋
+Independent developer based in Belém, Brazil. I build free, open-source Android apps and web tools that respect your privacy: no ads, no accounts, no trackers.
 
-**I build free, open-source, ad-free apps that anyone can use.**
-Belém (PA), Brazil 🇧🇷
-
-[![Email](https://img.shields.io/badge/email-saraivarilcle%40gmail.com-146B49?style=flat-square)](mailto:saraivarilcle@gmail.com)
-[![Support](https://img.shields.io/badge/support-buymeacoffee-146B49?style=flat-square)](https://buymeacoffee.com/saraivarilcle)
-
-</div>
+[Email](mailto:saraivarilcle@gmail.com) · [Support my work](https://buymeacoffee.com/saraivarilcle)
 
 ---
 
-### 🤝 What I believe in
+## Principles
 
-Useful software shouldn't cost you money, attention or personal data. Every project I make follows the same rules:
+Every project follows the same rules.
 
 | Principle | In practice |
 |---|---|
-| 💸 **Actually free** | No ads, no "Pro" tier, no in-app purchases |
-| 🔒 **Privacy first** | No account, no trackers, no telemetry. Your data stays on your device |
-| 📖 **Open source** | GPLv3: anyone can read, study, copy and improve the code |
-| 🤖 **Honest about AI** | I use AI to write code and say so in every project. I decide, review and test everything |
+| Free | No ads, no paid tier, no in-app purchases |
+| Private | No account, no analytics, no telemetry. Data stays on your device |
+| Open source | Licensed under GPLv3. Anyone can read, study and improve the code |
+| Transparent about AI | I use AI to write most of the code and say so in every project. I decide what gets built, review it and test it on real devices |
 
 ---
 
-### 🚀 Projects
+## Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### 🚌 [BusBus](https://github.com/rilclesaraiva/BusBus)
-Regional app for Belém, Brazil (in Portuguese). Real-time buses: live map, nearby stops and the official route for more than 160 bus lines.
-
-`JavaScript` · `Leaflet` · `Android + Web`
-
-**Status:** 🟢 v1.7 live
-[Open in your browser →](https://bus-bus-qdmb.vercel.app)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🎧 [Boom, listener!](https://github.com/rilclesaraiva/BoomListener)
-Local music player for Android with a Material 3 Expressive look, tag editor, artist pages and a new-release radar.
-
-`Kotlin` · `Jetpack Compose` · `Media3`
-
-**Status:** 🟢 Out now · current focus
-[Download the APK →](https://github.com/rilclesaraiva/BoomListener/releases)
-
-</td>
-<td width="33%" valign="top">
-
-#### 🏠 [Lyrale Launcher](https://github.com/rilclesaraiva/Lyrale-Launcher)
-A clean, customizable and private Android home screen, bringing together the best ideas from Nova, iOS and Niagara.
-
-`Kotlin` · `Jetpack Compose` · `M3 Expressive`
-
-**Status:** ⚪ Up next
-[See the plan →](https://github.com/rilclesaraiva/Lyrale-Launcher)
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**Boom, listener!**](https://github.com/rilclesaraiva/BoomListener) | Local music player for Android: Material 3 Expressive design, tag editor, synced lyrics, artist pages and a new-release radar | Kotlin, Jetpack Compose, Media3 | Released |
+| [**Joule Arc**](https://github.com/rilclesaraiva/Joule-Arc) | Battery and charging monitor for Android: live current, charging session history, capacity and wear, usage by app | Kotlin, Jetpack Compose | Early release |
+| [**Intruphon**](https://github.com/rilclesaraiva/Intruphon) | Lightweight, tracker-free Android app to download audio and video from links, for content you own or have permission to download | Kotlin, Jetpack Compose | In development |
+| [**BusBus**](https://github.com/rilclesaraiva/BusBus) | Real-time bus tracking for Belém (PA), with the official route of more than 160 lines. A regional app, in Portuguese. [Try it in the browser](https://bus-bus-qdmb.vercel.app) | JavaScript, Leaflet, Capacitor, Cloudflare Workers | Released |
 
 ---
 
-### 🛠️ Tools
+## How I work
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- **Architecture first.** Projects are split into small modules, with written rules for structure, design system and privacy limits kept in the repository.
+- **Tested and automated.** Logic that matters has unit tests, and every change goes through CI. A failing test means no build.
+- **Honest releases.** Each release has a changelog that says what changed, including what is still broken. Nothing ships without my approval.
+- **Privacy is checked, not promised.** Each app lists its permissions and every network request in its README and privacy policy.
 
 ---
 
-<div align="center">
+## Tools
 
-Found a bug, have an idea or want to help? Open an issue on any project or send me an email.
-If one of my apps helped you and you'd like to give back, you can chip in on [buymeacoffee](https://buymeacoffee.com/saraivarilcle). It's always optional.
+Kotlin · Jetpack Compose · Material 3 · Android · JavaScript · Vite · Leaflet · Cloudflare Workers · GitHub Actions
 
-<sub>🇧🇷 Faço apps gratuitos, de código aberto e sem anúncios, com privacidade de verdade. Feito em Belém.</sub>
+---
 
-</div>
+Found a bug or have an idea? Open an issue on any project or send me an email. If one of my apps helped you, you can [chip in](https://buymeacoffee.com/saraivarilcle). It is always optional.
+
+*Português: faço apps gratuitos, de código aberto e sem anúncios, com privacidade de verdade. Feito em Belém.*
